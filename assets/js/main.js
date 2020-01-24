@@ -37,7 +37,7 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/blueberries.jpg': 'center',
-							'images/strawberries': 'center',
+							'images/strawberries.jpg': 'center',
 							'images/oats.jpg': 'center'
 						},
 
